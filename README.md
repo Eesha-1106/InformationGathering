@@ -97,16 +97,19 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/0d58a815-a241-4913-8ce7-4fdc646211a2" />
 
 ### whatweb :
-<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/7ab25c62-b36f-4088-ac43-5119a9c1637d" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/eb25be0d-1bf1-4b1a-83aa-433cc7500e3f" />
 
 ### httprint :
-<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/54cfbfd9-799e-4dd7-9a2e-58c783ed6bb6" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/f8d33d21-1dd8-43ec-b806-29ad94902564" />
+
 
 ### TCP traceroute :
-<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/11d146ed-0321-48c9-b9c2-808355a13f80" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/10886dbe-16f2-41c9-9fa1-2cbe99f3962e" />
+
 
 ### UDP traceroute :
-<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/4fd6b506-5a05-4fff-9fe2-7b37b8497ecb" />
+<img width="1200" height="1500" alt="image" src="https://github.com/user-attachments/assets/3162c7cf-4bbc-44f7-b27e-0fe2442ac1b8" />
+
 
 
 ## RESULT:
